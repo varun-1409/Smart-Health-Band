@@ -7,20 +7,24 @@
 **Result without using WiFi Module**
 
 ![image](https://github.com/varun-1409/Smart-Health-Band/assets/84139574/83394f8d-1e71-4c58-8e2c-4980d548e8d4)
+
 			Figure 1: Sensor values on serial monitor
 
 
 **B.P Sensor Output**
 
 ![image](https://github.com/varun-1409/Smart-Health-Band/assets/84139574/2992278f-f0aa-464e-8b92-c426d56a87f4)
+
 					Figure 2: BP Sensor values
 
 
 **Result with using WiFi Module
 **
 ![image](https://github.com/varun-1409/Smart-Health-Band/assets/84139574/38f48bc7-aba2-4618-be99-3077060336f5)
+
 				Figure 3: Sensor values on Dash Board
 
 ![image](https://github.com/varun-1409/Smart-Health-Band/assets/84139574/daf59aa7-2f00-428f-93b9-92cc05cf0658)
+
 			Figure 4: Temperature Sensor values on Dashboard 
 
