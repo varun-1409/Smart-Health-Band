@@ -4,8 +4,6 @@
 		In the proposed work, a Health Monitoring Wearable Glove which can be worn is built and used to display the heart rate of any individual on the display mounted on the glove. The pulse of a person is sensed using a pulse sensor, which sends information to the Arduino board & it subsequently processes the information and commands the display module to display the heart-rate.
   
  **Working Concept of Smart Glove:**
-
- 
  	Monitoring your beloved ones becomes a difficult task in the modern day life. Keeping track of the health status of the your patient at home is a difficult task. Specially old age patients should be periodically monitored and their loved ones need to be informed about their health status from time to time while at work. So proposed an innovative system that automated this task with ease. Our system puts forward a smart patient health tracking system that uses Sensors to track patient health and uses internet to inform their loved ones in case of any issues. Our system uses temperature as well as heartbeat sensing to keep track of patient health. The sensors are connected to a microcontroller to track the status which is in turn connected to wifi module and sends the Information to the cloud through TC Protocol or Internet Protocol . Then on the other hand the doctor checks the health condition of the patient on dashboard. Thus IOT based patient health tracking system effectively uses internet to monitor patient.
 
   
