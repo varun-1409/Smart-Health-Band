@@ -17,3 +17,6 @@ B.P Sensor Output
 Result with using WiFi Module
 
 ![image](https://github.com/varun-1409/Smart-Health-Band/assets/84139574/38f48bc7-aba2-4618-be99-3077060336f5)
+
+![image](https://github.com/varun-1409/Smart-Health-Band/assets/84139574/daf59aa7-2f00-428f-93b9-92cc05cf0658)
+
